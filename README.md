@@ -1,23 +1,15 @@
 # Hello-World
->This repository is my first project "Hello Microverse"
+>This is my first microverse project on understanding Git, GitHub,GitHub Flow, linters and the structure and use of html & css
 
 
 Additional description about the project and its features.
 
 ## Built With
-    -HTML
-    -CSS
-    -Linters
-    -Visual Studio Code
-    -Git & Github
-
+    -HTML and CSS
 
 ## Live Demo
-
-https://raw.githack.com/Tumworobere/Portfolio/mobile-portfolio/index.html
-
-
-## Author
+ https://tumworobere.github.io/Hello-World/
+## Authors
 👤 **Annah Tumworobere**
 
 - GitHub:(https://github.com/Tumworobere)
@@ -47,4 +39,4 @@ Give a ⭐ if you like this project!
 
 ## 📝 License
 
-This project is [MIT] licensed.
+This project is**MIT**licensed.
