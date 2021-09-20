@@ -1,4 +1,4 @@
-# Hello-World
+# Hello Microverse
 >This is my first microverse project on understanding Git, GitHub,GitHub Flow, linters and the structure and use of html & css
 
 
