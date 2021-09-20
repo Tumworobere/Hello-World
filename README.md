@@ -1,14 +1,17 @@
-# Hello Microverse
->This is my first microverse project on understanding Git, GitHub,GitHub Flow, linters and the structure and use of html & css
+## Hello Microverse
 
+This is my first microverse project
 
 Additional description about the project and its features.
+- Understanding Git, and GitHub. 
+- Understanding GitHub Flow.
+- Understaanding linters and the structure and use of HTML & CSS
 
 ## Built With
-    -HTML and CSS
+- HTML and CSS
 
 ## Live Demo
- https://tumworobere.github.io/Hello-World/
+[Click Here to view my project](https://tumworobere.github.io/Hello-World/)
 ## Authors
 👤 **Annah Tumworobere**
 
