@@ -1,4 +1,8 @@
+body {
+background-color: aqua;
+}
 
-.header {
-  color: greenyellow;
+h1 {
+  text-align: center;
+  color:black;
 }
